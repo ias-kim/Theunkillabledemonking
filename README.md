@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm This is seonggwan Kim.</h1>
-<h3 align="center">A passionate frontend developer from Korea</h3>
+<h1 align="left">Hi 👋, I'm This is seonggwan Kim.</h1>
+<h3 align="left">A passionate frontend developer from Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theunkillabledemonking&label=Profile%20views&color=0e75b6&style=flat" alt="theunkillabledemonking" /> </p>
 
@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theunkillabledemonking&show_icons=true&locale=en" alt="theunkillabledemonking" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theunkillabledemonking&" alt="theunkillabledemonking" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=theunkillabledemonking&" alt="theunkillabledemonking" /></p>
