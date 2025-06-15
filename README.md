@@ -15,5 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theunkillabledemonking&show_icons=true&locale=en" alt="theunkillabledemonking" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=theunkillabledemonking&" alt="theunkillabledemonking" /></p>
-[![wakatime](https://wakatime.com/badge/user/8271be3c-01e8-4db1-bc77-d61f9e69c1e6.svg)](https://wakatime.com/@8271be3c-01e8-4db1-bc77-d61f9e69c1e6)
+[![wakatime](https://wakatime.com/badge/user/8271be3c-01e8-4db1-bc77-d61f9e69c1e6.svg?style=flat-square)](https://wakatime.com/@8271be3c-01e8-4db1-bc77-d61f9e69c1e6)
