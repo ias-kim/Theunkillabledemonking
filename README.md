@@ -2,7 +2,7 @@
 
 ---
 
-![](./profile-3d-contrib/profile-customize.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
