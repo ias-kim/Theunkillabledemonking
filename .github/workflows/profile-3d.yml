@@ -27,3 +27,9 @@ jobs:
           git add profile-3d-contrib/
           git commit -m "update: 3D graph" || echo "No changes to commit"
           git push
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_PERSONAL_ACCESS_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: ./setting.json   
