@@ -21,6 +21,7 @@ type MyStack = {
   ai: "PyTorch";
   container: "Docker"
 };
+```
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -52,5 +53,4 @@ type MyStack = {
     <img src="https://wakatime.com/badge/user/8271be3c-01e8-4db1-bc77-d61f9e69c1e6.svg?style=for-the-badge" />
   </a>
 </p>
-```
 
