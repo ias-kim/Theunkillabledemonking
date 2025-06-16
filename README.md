@@ -26,13 +26,13 @@ type MyStack = {
 ### 📫 Connect with me:
 <p align="center">
   <a href="https://www.instagram.com/gwan1.82/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gwan1.82/"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:abcqkdnxm@g.yju.ac.kr">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=abcqkdnxm@g.yju.ac.kr"/>
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
 </p>
 
 
-[![wakatime](https://wakatime.com/badge/user/8271be3c-01e8-4db1-bc77-d61f9e69c1e6.svg)](https://wakatime.com/@8271be3c-01e8-4db1-bc77-d61f9e69c1e6)
+[![wakatime](https://wakatime.com/badge/user/8271be3c-01e8-4db1-bc77-d61f9e69c1e6.svg?style=for-the-badge)](https://wakatime.com/@8271be3c-01e8-4db1-bc77-d61f9e69c1e6)
