@@ -37,5 +37,4 @@
 ---
 
 
-<!-- 연동 시 더 멋진 통계 카드 -->
-===![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=theunkillabledemonking) 
+[![wakatime](https://wakatime.com/badge/user/8271be3c-01e8-4db1-bc77-d61f9e69c1e6.svg)](https://wakatime.com/@8271be3c-01e8-4db1-bc77-d61f9e69c1e6)
