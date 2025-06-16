@@ -2,10 +2,8 @@
 
 ---
 
-### 🧱 3D Contribution Graph
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Theunkillabledemonking/Theunkillabledemonking/main/profile-3d-contrib/profile-night-rainbow.svg" />
+![](./profile-3d-contrib/profile-green-animate.svg)
 </p>
 
 ---
