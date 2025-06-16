@@ -11,18 +11,19 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
+
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_PERSONAL_ACCESS_TOKEN }} 
+          GITHUB_TOKEN: ${{ secrets.MY_PERSONAL_ACCESS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A .
-          if git commit -m "generated"; then
-            git push
-          fi
+          git remote set-url origin https://${{ secrets.MY_PERSONAL_ACCESS_TOKEN }}@github.com/${{ github.repository }}
+          git add profile-3d-contrib/
+          git commit -m "update: 3D graph" || echo "No changes to commit"
+          git push
