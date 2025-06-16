@@ -7,9 +7,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Theunkillabledemonking/Theunkillabledemonking/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
+
 ---
 
 ### 🛠 Tech Stack
+
 ```ts
 type MyStack = {
   languages: "Java" | "Python" | "TypeScript";
@@ -19,15 +21,17 @@ type MyStack = {
   ai: "PyTorch";
   container: "Docker"
 };
-```
----
 
 ### 📊 GitHub Stats
-<p align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=theunkillabledemonking&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theunkillabledemonking&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theunkillabledemonking&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
+</div>
+<br />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theunkillabledemonking&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theunkillabledemonking&layout=compact&theme=radical" />
+</div>
+
 
 ---
 
@@ -43,4 +47,10 @@ type MyStack = {
 </p>
 
 
-[![wakatime](https://wakatime.com/badge/user/8271be3c-01e8-4db1-bc77-d61f9e69c1e6.svg?style=for-the-badge)](https://wakatime.com/@8271be3c-01e8-4db1-bc77-d61f9e69c1e6)
+<p align="center">
+  <a href="https://wakatime.com/@8271be3c-01e8-4db1-bc77-d61f9e69c1e6">
+    <img src="https://wakatime.com/badge/user/8271be3c-01e8-4db1-bc77-d61f9e69c1e6.svg?style=for-the-badge" />
+  </a>
+</p>
+```
+
