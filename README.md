@@ -17,6 +17,7 @@ type MyStack = {
 
 ### 📊 GitHub Stats
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=theunkillabledemonking&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theunkillabledemonking&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theunkillabledemonking&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
