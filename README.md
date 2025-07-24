@@ -12,7 +12,7 @@
 type MyStack = {
   languages: "Java" | "Python" | "PHP" | "TypeScript";
   frontend: "Vue";
-  backend: "Express";
+  backend: "Express" | "Laravel";
   database: "MySQL";
   ai: "PyTorch";
   container: "Docker"
