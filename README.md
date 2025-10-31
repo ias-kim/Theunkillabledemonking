@@ -10,10 +10,10 @@
 
 ```ts
 type MyStack = {
-  languages: "Java" | "Python" | "PHP" | "TypeScript";
-  frontend: "Vue";
-  backend: "Express" | "Laravel";
-  database: "MySQL";
+  languages: "Java" | "Python" | "PHP" | "TypeScript📚";
+  frontend: "Vue" | "React📚";
+  backend: "Express" | "Laravel" | "NetsJS📚";
+  database: "MySQL" | "MongoDB" | "Redis";
   ai: "PyTorch";
   container: "Docker"
 };
