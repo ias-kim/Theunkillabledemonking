@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=1000&color=9A031E&width=600&height=65&lines=Hi!+I'm+SeongGwan+Kim;Code+from+the+Abyss+😈)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=1000&color=9A031E&width=600&height=65&lines=Hi!+I'm+SeongGwan+Kim;Full+Stack+Enginner+😈)
 
 ---
 
@@ -21,11 +21,11 @@ type MyStack = {
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=theunkillabledemonking&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=ias-kim&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 <br />
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theunkillabledemonking&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ias-kim&show_icons=true&theme=radical" />
 </div>
 
 
