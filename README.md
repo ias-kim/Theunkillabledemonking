@@ -20,6 +20,10 @@ type MyStack = {
 ```
 
 ### 📊 GitHub Stats
+<div align="center"> 
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ias-kim&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
